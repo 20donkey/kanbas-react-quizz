@@ -42,6 +42,7 @@ export default function TOC() {
         <a id="wd-k" href="#/Kanbas" className="nav-link">
           Kanbas
         </a>
+        </li>
 
       <li className="nav-item">
         <a id="wd-github" href="https://github.com/20donkey/kanbas-node-server-quiz" className="nav-link">
